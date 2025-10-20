@@ -1,0 +1,12 @@
+# ENV file 
+.env
+
+
+# exe file
+
+.exe
+
+\
+# In root .gitignore
+frontend/.env
+backend/.env
